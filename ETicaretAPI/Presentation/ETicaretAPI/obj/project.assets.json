@@ -263,11 +263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI\\ETicaretAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI\\ETicaretAPI.csproj",
       "projectName": "ETicaretAPI",
-      "projectPath": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI\\ETicaretAPI.csproj",
+      "projectPath": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI\\ETicaretAPI.csproj",
       "packagesPath": "C:\\Users\\Afb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI\\obj\\",
+      "outputPath": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Afb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -284,8 +284,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
+            "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\Afb\\Desktop\\ETicaret\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
             }
           }
         }
