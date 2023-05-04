@@ -98,3 +98,7 @@
 /ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net6.0
 /ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/project.nuget.cache
 /ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/project.assets.json
+Debug\net6.0
+bin\Debug\net6.0
+obj
+
