@@ -103,3 +103,7 @@ bin\Debug\net6.0
 obj
 
 /bin/Debug/net6.0
+/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/bin/Debug/net6.0/ETicaretAPI.Infrastructure.deps.json
+/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.deps.json
+/ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net6.0/ETicaretAPI.Application.deps.json
+/ETicaretAPI/Presentation/ETicaretAPI/bin/Debug/net6.0/ETicaretAPI.exe
