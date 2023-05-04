@@ -34,3 +34,6 @@ C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\obj\
 C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\obj\Debug\net6.0\ETicaretAPI.pdb
 C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\obj\Debug\net6.0\ETicaretAPI.genruntimeconfig.cache
 C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\obj\Debug\net6.0\ref\ETicaretAPI.dll
+C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+C:\Users\Afb\Desktop\ETicaret\ETicaret\ETicaretAPI\Presentation\ETicaretAPI\bin\Debug\net6.0\ETicaretAPI.Persistence.pdb
