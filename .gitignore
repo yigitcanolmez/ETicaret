@@ -74,3 +74,4 @@
 /.gitignore
 /ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/ETicaretAPI.Persistence.csproj.nuget.g.targets
 /ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/ETicaretAPI.Persistence.csproj.nuget.g.props
+/ETicaretAPI/Presentation/ETicaretAPI/obj/Debug/net6.0/ETicaretAPI.csproj.AssemblyReference.cache
