@@ -85,3 +85,14 @@
 *.zip
 *.rar
 *.7z
+/ETicaretAPI/Presentation/ETicaretAPI/obj/ETicaretAPI.csproj.nuget.g.targets
+/ETicaretAPI/Presentation/ETicaretAPI/obj/ETicaretAPI.csproj.nuget.g.props
+/ETicaretAPI/Presentation/ETicaretAPI/obj/Debug/net6.0/ETicaretAPI.genruntimeconfig.cache
+/ETicaretAPI/Presentation/ETicaretAPI/obj/Debug/net6.0/ETicaretAPI.csproj.FileListAbsolute.txt
+/ETicaretAPI/Presentation/ETicaretAPI/obj/Debug/net6.0/ETicaretAPI.csproj.CoreCompileInputs.cache
+/ETicaretAPI/Presentation/ETicaretAPI/obj/Debug/net6.0/ETicaretAPI.assets.cache
+/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net6.0/ETicaretAPI.Persistence.genruntimeconfig.cache
+/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net6.0/ETicaretAPI.Persistence.csproj.FileListAbsolute.txt
+/ETicaretAPI/Presentation/ETicaretAPI/bin/Debug/net6.0/ETicaretAPI.runtimeconfig.json
+/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net6.0/ETicaretAPI.Persistence.runtimeconfig.json
+/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net6.0
