@@ -70,3 +70,5 @@
 *.dll
 *.BuildWithSkipAnalyzers
 *.config
+/ETicaretAPI/.vs/ETicaretAPI/FileContentIndex
+/.gitignore
