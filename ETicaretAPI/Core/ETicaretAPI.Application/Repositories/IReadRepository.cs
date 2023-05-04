@@ -14,4 +14,4 @@ namespace ETicaretAPI.Application.Repositories
         Task<T> GetByIdAsync(string id);
 
     }
-}S
+} 
