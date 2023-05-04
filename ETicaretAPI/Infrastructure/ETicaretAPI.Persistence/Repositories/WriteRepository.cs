@@ -51,10 +51,8 @@ namespace ETicaretAPI.Persistence.Repositories
             return entityEntry.State == EntityState.Deleted;
         }
 
-        public Task<int> SaveAsync()
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<int> SaveAsync()
+        => await _context.SaveChangesAsync();
 
         public bool UpdateAsync(T Model)
         {
