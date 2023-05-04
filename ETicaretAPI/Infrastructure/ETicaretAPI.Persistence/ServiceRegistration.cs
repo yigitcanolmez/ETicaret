@@ -7,7 +7,7 @@ namespace ETicaretAPI.Persistence
     {
         public static void AddPersistenceServices(this IServiceCollection services)
         {
-            services.AddDbContext<ETicaretAPIDbContext>(options => options.UseNpgsql("User ID= postgres;Password=deneme123.;Host=localhost;Port=5432;Database=postgres;TrustServerCertificate=true;"));
+            services.AddDbContext<ETicaretAPIDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));
 
  
         }
