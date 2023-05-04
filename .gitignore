@@ -72,3 +72,5 @@
 *.config
 /ETicaretAPI/.vs/ETicaretAPI/FileContentIndex
 /.gitignore
+/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/ETicaretAPI.Persistence.csproj.nuget.g.targets
+/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/ETicaretAPI.Persistence.csproj.nuget.g.props
