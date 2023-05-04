@@ -3,7 +3,7 @@
 namespace ETicaretAPI.Application.Repositories.Orders
 
 {
-    public interface IOrderWriteRepository: IReadRepository<Order>
+    public interface IOrderWriteRepository: IWriteRepository<Order>
     {
 
     }
