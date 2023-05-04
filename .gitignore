@@ -96,3 +96,5 @@
 /ETicaretAPI/Presentation/ETicaretAPI/bin/Debug/net6.0/ETicaretAPI.runtimeconfig.json
 /ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net6.0/ETicaretAPI.Persistence.runtimeconfig.json
 /ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net6.0
+/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/project.nuget.cache
+/ETicaretAPI/Infrastructure/ETicaretAPI.Infrastructure/obj/project.assets.json
