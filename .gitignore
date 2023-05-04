@@ -66,3 +66,7 @@
 /ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net6.0/ETicaretAPI.Domain.dll
 /ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net6.0/ETicaretAPI.Application.pdb
 /ETicaretAPI/Core/ETicaretAPI.Application/bin/Debug/net6.0/ETicaretAPI.Application.dll
+*.pdb
+*.dll
+*.BuildWithSkipAnalyzers
+*.config
