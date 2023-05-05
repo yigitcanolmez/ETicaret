@@ -18,7 +18,7 @@ namespace ETicaretAPI.Controllers
         }
         [HttpGet]
 
-        public async void Get()
+        public async Task Get()
         {
             await _writeRepository.AddRangeAsync(new()
             {
